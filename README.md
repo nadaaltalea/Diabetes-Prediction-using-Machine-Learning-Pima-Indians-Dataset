@@ -87,7 +87,7 @@ This dataset is widely used in the medical data science community due to its rel
 
 
 
-👩‍💻 Author
-Nada Altalea
-Department of Information Systems
-King Khalid University, Saudi Arabia
+- 👩‍💻 Author
+- Nada Altalea
+- Department of Information Systems
+- King Khalid University, Saudi Arabia
